@@ -17,23 +17,23 @@
 	<nav>
 		<ul class="nav justify-content-end">
 			<li class="nav-item">
-				<a class="nav-link active" aria-current="page" href="#">
-					Active
+				<a class="nav-link active" aria-current="page" href="login">
+					LOGIN
 				</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">
-					Link
+					CART
 				</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">
-					Link
+					LOGOUT
 				</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link disabled">
-					Disabled
+					MYPAGE
 				</a>
 			</li>
 		</ul>
