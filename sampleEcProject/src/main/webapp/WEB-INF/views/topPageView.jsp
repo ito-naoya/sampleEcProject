@@ -14,26 +14,34 @@
 <body>
 
 	<!-- ナビゲーション -->
-	<nav>
+	<nav class="bg-black">
 		<ul class="nav justify-content-end">
 			<li class="nav-item">
 				<a class="nav-link active" aria-current="page" href="login">
-					LOGIN
+					<button type="button" class="btn btn-info">
+						ログイン
+					</button>	
 				</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">
-					CART
+					<button type="button" class="btn btn-info">
+						カート
+					</button>	
 				</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">
-					LOGOUT
+					<button type="button" class="btn btn-info">
+						ログアウト
+					</button>	
 				</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link disabled">
-					MYPAGE
+				<a class="nav-link" href="#">
+					<button type="button" class="btn btn-info">
+						マイページ
+					</button>	
 				</a>
 			</li>
 		</ul>
